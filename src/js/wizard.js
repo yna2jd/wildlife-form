@@ -1,5 +1,7 @@
 import {validateEntries, formEntries} from "./config";
 
+// As this affects the links on the wizard only, it is unnecessary to edit this
+
 const org = "code-for-charlottesville"
 const repo = "wildlife-form"
 const branch_name = "main"
